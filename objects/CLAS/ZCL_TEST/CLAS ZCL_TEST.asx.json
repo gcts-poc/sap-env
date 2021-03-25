@@ -17,7 +17,7 @@
    {
     "CLSNAME":"ZCL_TEST",
     "CLSTYPE":0,
-    "UUID":"BgppleaqHtujooRE/wfWBg==",
+    "UUID":"BlhsW2pSHtujt+XQ9XVTIA==",
     "REMOTE":""
    }
   ]
@@ -305,7 +305,7 @@
     "SRCSYSTEM":"...",
     "AUTHOR":"RAGHAVENDRAN",
     "SRCDEP":"",
-    "DEVCLASS":"Z_TEST",
+    "DEVCLASS":"Z_TEST2",
     "GENFLAG":"",
     "EDTFLAG":"",
     "CPROJECT":" S",
