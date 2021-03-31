@@ -4,4 +4,4 @@
 *&
 *&---------------------------------------------------------------------*
 REPORT zpr_conflict_test.
-WRITE 'hello conflict test ds1'.
+WRITE 'hello conflict test ds2'.
